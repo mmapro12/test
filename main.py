@@ -1,3 +1,5 @@
+print("Welcome to DATAPY")
+
 class Person:
 
     def __init__(self, name: str, surname: str, age: int, birthdate: int):
